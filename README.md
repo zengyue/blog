@@ -1,1 +1,1 @@
-- <a href="https://monet.vision/">[AI-Powered Visual Creation Platform](https://monet.vision/)</a>
+- <a href="https://monet.vision/" rel="follow">AI-Powered Visual Creation Platform</a>
